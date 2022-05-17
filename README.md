@@ -20,8 +20,18 @@ Build a 2D grid world with initial state , goal state and obstacles:
 ## Draw the 2D 
 
 ## PROGRAM
-Include your code here
 
+```python
+
+%matplotlib inline
+import matplotlib.pyplot as plt
+import random
+import math
+import sys
+from collections import defaultdict, deque, Counter
+from itertools import combinations
+import heapq
+```
 
 ## OUTPUT:
 
