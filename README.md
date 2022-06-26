@@ -1,4 +1,8 @@
-# A* Path Finding Algorithm for 2D Grid World
+### EX NO : 04
+### DATE  : 17-05-2022
+# <p align="center">  A* Path Finding Algorithm for 2D Grid World </p>
+
+
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -19,6 +23,17 @@ Define the function for the distance function for the heuristic function
 
 ### STEP 4:
 Pass all the values to the GirdProblem, and print the solution path.
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Draw the 2D 
 ![AI_EXP4_Grid](https://user-images.githubusercontent.com/77089743/168874533-6f3a5cb3-e25b-406a-8101-62ef2d7e4b1d.PNG)
